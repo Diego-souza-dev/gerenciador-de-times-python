@@ -17,6 +17,12 @@ O sistema mantém os dados na memória durante a execução, permitindo uma nave
 - **Python**
 - Biblioteca padrão `os` (para limpeza de tela do terminal)
 
+
+##Desenvolvido por Diego.
+<img width="150" alt="Esse sou eu" src="https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e" />
+- LinkedIn: [https://www.linkedin.com/in/diego-souza-devsp/]
+Estudante de Engenharia de Software focado em desenvolvimento de soluções eficientes.
+
 ## 🚀 Como executar o projeto
 
 1. Certifique-se de ter o Python instalado no seu computador.
@@ -26,10 +32,3 @@ O sistema mantém os dados na memória durante a execução, permitindo uma nave
 
 ```bash
 python main.py
-´´´
-
-##Desenvolvido por Diego.
-<img width="150" alt="Esse sou eu" src="https://github.com/user-attachments/assets/8a2db67f-c14d-4b6d-b8f6-57a1a82a043e" />
-- LinkedIn: [https://www.linkedin.com/in/diego-souza-devsp/]
-Estudante de Engenharia de Software focado em desenvolvimento de soluções eficientes.
-
